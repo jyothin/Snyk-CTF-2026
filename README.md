@@ -1,7 +1,4 @@
 # Snyk-CTF-2026
 Snyk CTF 2026 Challenge
 
-Test newline
-
-Another test newline
-
+Keep only necessary files and folders
